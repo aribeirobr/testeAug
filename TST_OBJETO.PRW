@@ -22,6 +22,7 @@ Local cAviso	:= ""
 Local cErro	:=  ""
 Local aEndereco	:= {}
 
+	//| Alteração Upload
 
 	//cXML	:= "<cliente><codigo>000010</codigo><nome>AUGUSTO RIBEIRO</nome>  <endereco>    <rua>Av. Paulista</rua>    <Numero>2006</Numero>     </endereco>  <endereco>    <rua>Av. 23 de maio</rua>    <Numero>124</Numero>  </endereco></cliente>"
 	//cXML	:= "<cliente><codigo>000010</codigo><nome>AUGUSTO</nome><sobrenome><![CDATA[RIBEIRO <NATURALIDADE>TESTE</NATURALIDADE>]]></sobrenome>  <endereco>    <rua>Av. Paulista</rua>    <Numero>2006</Numero>     </endereco>  <endereco>    <rua>Av. 23 de maio</rua>    <Numero>124</Numero>  </endereco></cliente>"
